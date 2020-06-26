@@ -1,6 +1,6 @@
 # Crash At
 
-Python decorate to force a method to crash after a certain date:
+Python decorator to force a method to crash after a certain date:
 
 ```python
 from crash_after import crash_after
