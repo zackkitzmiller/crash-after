@@ -4,7 +4,7 @@ from decorator import decorator
 
 
 class CrashAfterException(Exception):
-    message = "This method has stopped worked"
+    message = "This method has stopped working"
 
 
 @decorator
